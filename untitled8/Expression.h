@@ -1,0 +1,10 @@
+#ifndef UNTITLED8_EXPRESSION_H
+#define UNTITLED8_EXPRESSION_H
+
+
+class Expression {
+
+};
+
+
+#endif //UNTITLED8_EXPRESSION_H
